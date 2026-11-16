@@ -295,12 +295,12 @@ Generated files:
 
 | # | Name | Roll Number | Assigned Responsibility |
 |---|---|---|---|
-| 1 | _Member 1_ | _Roll No._ | Task 1 — Field environment, grid encoding, crop-safe buffer design |
-| 2 | _Member 2_ | _Roll No._ | Task 2 — Formal problem formulation and transition model |
-| 3 | _Member 3_ | _Roll No._ | Task 3 — Heuristics and BFS / DFS implementations |
-| 4 | _Member 4_ | _Roll No._ | Task 3 — Greedy Best-First and A\* implementations, performance evaluation |
-| 5 | _Member 5_ | _Roll No._ | Task 5 — Online obstacle detection and dynamic replanning |
-| 6 | _Member 6_ | _Roll No._ | Task 6 — Visualisation, README, report and demonstration |
+| 1 | _Member 1_ | _BT24CSA020_ | Task 1 — Field environment, grid encoding, crop-safe buffer design |
+| 2 | _Member 2_ | _BT24CSA020_ | Task 2 — Formal problem formulation and transition model |
+| 3 | _Member 3_ | _BT24CSA001_ | Task 3 — Heuristics and BFS / DFS implementations |
+| 4 | _Member 4_ | _BT24CSA022_ | Task 4 — Greedy Best-First and A\* implementations, performance evaluation |
+| 5 | _Member 5_ | _BT24CSA018_ | Task 5 — Online obstacle detection and dynamic replanning |
+| 6 | _Member 6_ | _BT24CSA018_ | Task 6 — Visualisation, README, report and demonstration |
 
 ---
 
