@@ -1,7 +1,12 @@
 # AI-Based Crop-Safe Path Planning for an Autonomous Potato-Field Robot
 
+<<<<<<< HEAD
 > **IIITN Group project — Artificial Intelligence / Search Algorithms**
 >-- Shlok Dadhich(BT24CSA001), Saurabh Jadhav(BT24CSA022), Arijeet Tripathi(BT24CSA020), Sanchit Garg(BT24CSA018), Shivansh Patel(BT24CSA013) Luv Nichat(BT24CSA017)  · Tasks 1–6 · Pure Python + `numpy` + `matplotlib`
+=======
+> **University group project — Artificial Intelligence / Search Algorithms**
+> Group  · Tasks 1–6 · Pure Python + `numpy` + `matplotlib`
+>>>>>>> parent of ad94062 (updated readme.md)
 
 An autonomous agricultural robot has to drive from the corner of a potato field to a
 monitoring station without crushing plants, without hitting stones or tools, and
