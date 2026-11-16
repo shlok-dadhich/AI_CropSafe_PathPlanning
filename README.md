@@ -1,6 +1,6 @@
 # AI-Based Crop-Safe Path Planning for an Autonomous Potato-Field Robot
 
-> **University group project — Artificial Intelligence / Search Algorithms**
+> **IIITN Group project — Artificial Intelligence / Search Algorithms**
 > Group  · Tasks 1–6 · Pure Python + `numpy` + `matplotlib`
 
 An autonomous agricultural robot has to drive from the corner of a potato field to a
